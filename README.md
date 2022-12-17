@@ -27,7 +27,7 @@ Arquivo com tweets já classificados
 Arquivos com os códigos em python para execução da análise
 
 ### arquivos na pasta ```gráficos```
-Arquivos em HTML com os gráficos já plotados pelo vegas studio
+Arquivos em HTML com os gráficos já plotados pelo vega editor
 
 ## Contato
 Caso tenha dúvidas sobre esse script e análise, mande um e-mail para **vitorarthur.profissional@gmail.com**
